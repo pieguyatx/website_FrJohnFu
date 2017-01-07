@@ -1,0 +1,15 @@
+body{
+  font-family: "Crimson Text", serif;
+}
+.well{
+  margin: 20px;
+}
+a{
+  color: red;
+}
+.long-title{
+  font-style: italic;
+}
+.date{
+  font-weight: bold;
+}
